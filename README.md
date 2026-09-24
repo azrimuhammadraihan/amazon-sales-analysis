@@ -67,6 +67,7 @@ The dashboard includes:
 - Top 10 States by Revenue
 - Order Status Analysis
 
+![Amazon Sales Dashboard](dashboard.jpeg)
 
 ## Key Insights
 
